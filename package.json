@@ -1,0 +1,12 @@
+{
+  "name": "bsod-demo",
+  "version": "1.0.0",
+  "description": "A fake BSOD demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^latest-version"
+  }
+}
